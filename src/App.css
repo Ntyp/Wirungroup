@@ -42,7 +42,7 @@ section .content h2{
 }
 .hello1{
 	font-size: 5em;
-	color: #1a1c33;
+	color: #fafafa;
 	font-weight: 700;
 }
 section .content h5{
@@ -51,10 +51,10 @@ section .content h5{
 	font-weight: 700;
 }
 section .content .color-yellow{
-	color: #fac638;
+	color: #000;
 }	
 section .content .color-blue{
-	color: #fff;
+	color: #000;
 }
 .top-img-other {
 	width: 100%;
